@@ -7,3 +7,5 @@ Fun facts about me:
 * I live in Maine
 
 You can schedule an appointment with me through my [calendly link](https://calendly.com/jason-oswald-avenues-cs/tutorial-one-on-one)
+
+See you next week
