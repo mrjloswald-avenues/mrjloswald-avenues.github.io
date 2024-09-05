@@ -6,4 +6,4 @@ Fun facts about me:
 * I have another dog named Neptune
 * I live in Maine
 
-You can schedule an appointment with me through my calendly link
+You can schedule an appointment with me through my [calendly link](https://calendly.com/jason-oswald-avenues-cs/tutorial-one-on-one)
