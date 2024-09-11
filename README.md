@@ -5,6 +5,7 @@ Fun facts about me:
 * I have a Scottish Deerhound named Orlaith
 * I have another dog named Neptune
 * I live in Maine
+* I am a fan of GitHub
 
 You can schedule an appointment with me through my [calendly link](https://calendly.com/jason-oswald-avenues-cs/tutorial-one-on-one)
 
